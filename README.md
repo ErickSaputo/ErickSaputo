@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErickSaputo.
 - 👀 I’m interested in creating web pages.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript and REACT.
 
 <!---
 ErickSaputo/ErickSaputo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
